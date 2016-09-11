@@ -12,6 +12,7 @@ module Numeric.FFT.Vector.Unnormalized(
                     run,
                     plan,
                     execute,
+                    Transform,
                     -- * Complex-to-complex transforms
                     -- ** One-dimensional complex-to-complex transforms
                     dft,
